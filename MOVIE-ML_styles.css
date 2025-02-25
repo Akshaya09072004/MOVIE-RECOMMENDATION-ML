@@ -1,0 +1,140 @@
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb); /* Subtle gradient */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Header Styles */
+.header {
+    background-color: rgba(13, 71, 161, 0.9);
+    color: white; /* Changed text color for better contrast */
+    width: 100%;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: 700;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.header h2 {
+    margin: 0;
+}
+
+/* Container */
+.container {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 700px;
+    padding: 30px;
+    text-align: center;
+    margin: 100px auto 20px;
+}
+
+/* Header */
+h1 {
+    font-size: 2.8em;
+    color: #0d47a1;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Input Field */
+input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.1em;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"]:focus {
+    border-color: #0d47a1;
+    box-shadow: 0 0 5px rgba(13, 71, 161, 0.5);
+    outline: none;
+}
+
+/* Button Styling */
+button {
+    background-color: #0d47a1;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s;
+}
+
+button:hover {
+    background-color: #ffb300;
+    transform: scale(1.05);
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(255, 179, 0, 0.5);
+}
+
+/* Recommendation Result */
+#result {
+    margin-top: 30px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#result h3 {
+    font-size: 1.8em;
+    color: #0d47a1;
+    margin-bottom: 10px;
+}
+
+#result p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 2.2em;
+    }
+
+    button {
+        width: 100%;
+        font-size: 1.1em;
+    }
+
+    input[type="text"] {
+        font-size: 1em;
+    }
+
+    .header {
+        font-size: 1.5em;
+        padding: 10px;
+    }
+}
+
+
+
+

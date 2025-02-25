@@ -1,0 +1,76 @@
+title,genres,director,year,cast,imdb_rating
+The Matrix,Action|Sci-Fi,Lana Wachowski,1999,"Keanu Reeves, Laurence Fishburne",8.7
+Inception,Action|Sci-Fi|Thriller,Christopher Nolan,2010,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.8
+Interstellar,Adventure|Drama|Sci-Fi,Christopher Nolan,2014,"Matthew McConaughey, Anne Hathaway",8.6
+The Godfather,Crime|Drama,Francis Ford Coppola,1972,"Marlon Brando, Al Pacino",9.2
+The Dark Knight,Action|Crime|Drama,Christopher Nolan,2008,"Christian Bale, Heath Ledger",9.0
+The Shawshank Redemption,Drama,Frank Darabont,1994,"Tim Robbins, Morgan Freeman",9.3
+Pulp Fiction,Crime|Drama,Quentin Tarantino,1994,"John Travolta, Samuel L. Jackson",8.9
+Fight Club,Drama,David Fincher,1999,"Brad Pitt, Edward Norton",8.8
+Forrest Gump,Drama|Romance,Robert Zemeckis,1994,"Tom Hanks, Robin Wright",8.8
+Gladiator,Action|Adventure|Drama,Ridley Scott,2000,"Russell Crowe, Joaquin Phoenix",8.5
+Avatar,Action|Adventure|Fantasy,James Cameron,2009,"Sam Worthington, Zoe Saldana",7.8
+Titanic,Drama|Romance,James Cameron,1997,"Leonardo DiCaprio, Kate Winslet",7.8
+The Lord of the Rings: The Fellowship of the Ring,Adventure|Drama|Fantasy,Peter Jackson,2001,"Elijah Wood, Ian McKellen",8.8
+The Lord of the Rings: The Return of the King,Adventure|Drama|Fantasy,Peter Jackson,2003,"Elijah Wood, Viggo Mortensen",9.0
+The Lord of the Rings: The Two Towers,Adventure|Drama|Fantasy,Peter Jackson,2002,"Elijah Wood, Ian McKellen",8.7
+Star Wars: Episode IV - A New Hope,Action|Adventure|Fantasy,George Lucas,1977,"Mark Hamill, Harrison Ford",8.6
+Star Wars: Episode V - The Empire Strikes Back,Action|Adventure|Fantasy,Irvin Kershner,1980,"Mark Hamill, Harrison Ford",8.7
+Star Wars: Episode VI - Return of the Jedi,Action|Adventure|Fantasy,Richard Marquand,1983,"Mark Hamill, Harrison Ford",8.3
+Avengers: Endgame,Action|Adventure|Drama,Anthony Russo,2019,"Robert Downey Jr., Chris Evans",8.4
+Avengers: Infinity War,Action|Adventure|Sci-Fi,Anthony Russo,2018,"Robert Downey Jr., Chris Hemsworth",8.4
+Jurassic Park,Adventure|Sci-Fi,Steven Spielberg,1993,"Sam Neill, Laura Dern",8.1
+The Silence of the Lambs,Crime|Drama|Thriller,Jonathan Demme,1991,"Jodie Foster, Anthony Hopkins",8.6
+Saving Private Ryan,Drama|War,Steven Spielberg,1998,"Tom Hanks, Matt Damon",8.6
+Braveheart,Biography|Drama|History,Mel Gibson,1995,"Mel Gibson, Sophie Marceau",8.3
+The Lion King,Animation|Adventure|Drama,Roger Allers,1994,"Matthew Broderick, Jeremy Irons",8.5
+Back to the Future,Adventure|Comedy|Sci-Fi,Robert Zemeckis,1985,"Michael J. Fox, Christopher Lloyd",8.5
+The Green Mile,Crime|Drama|Fantasy,Frank Darabont,1999,"Tom Hanks, Michael Clarke Duncan",8.6
+Schindler's List,Biography|Drama|History,Steven Spielberg,1993,"Liam Neeson, Ralph Fiennes",9.0
+Goodfellas,Biography|Crime|Drama,Martin Scorsese,1990,"Robert De Niro, Ray Liotta",8.7
+The Prestige,Drama|Mystery|Sci-Fi,Christopher Nolan,2006,"Christian Bale, Hugh Jackman",8.5
+The Departed,Crime|Drama|Thriller,Martin Scorsese,2006,"Leonardo DiCaprio, Matt Damon",8.5
+Django Unchained,Drama|Western,Quentin Tarantino,2012,"Jamie Foxx, Christoph Waltz",8.4
+Whiplash,Drama|Music,Damien Chazelle,2014,"Miles Teller, J.K. Simmons",8.5
+The Social Network,Biography|Drama,David Fincher,2010,"Jesse Eisenberg, Andrew Garfield",7.8
+The Imitation Game,Biography|Drama|Thriller,Morten Tyldum,2014,"Benedict Cumberbatch, Keira Knightley",8.0
+The Wolf of Wall Street,Biography|Comedy|Crime,Martin Scorsese,2013,"Leonardo DiCaprio, Jonah Hill",8.2
+Inglourious Basterds,Adventure|Drama|War,Quentin Tarantino,2009,"Brad Pitt, Christoph Waltz",8.3
+Shutter Island,Mystery|Thriller,Martin Scorsese,2010,"Leonardo DiCaprio, Mark Ruffalo",8.2
+A Beautiful Mind,Biography|Drama,Ron Howard,2001,"Russell Crowe, Ed Harris",8.2
+La La Land,Comedy|Drama|Music,Damien Chazelle,2016,"Ryan Gosling, Emma Stone",8.0
+The Pursuit of Happyness,Biography|Drama,Gabriele Muccino,2006,"Will Smith, Jaden Smith",8.0
+The Revenant,Action|Adventure|Drama,Alejandro González Iñárritu,2015,"Leonardo DiCaprio, Tom Hardy",8.0
+Mad Max: Fury Road,Action|Adventure|Sci-Fi,George Miller,2015,"Tom Hardy, Charlize Theron",8.1
+Slumdog Millionaire,Drama|Romance,Danny Boyle,2008,"Dev Patel, Freida Pinto",8.0
+The Grand Budapest Hotel,Adventure|Comedy|Crime,Wes Anderson,2014,"Ralph Fiennes, F. Murray Abraham",8.1
+The Hateful Eight,Crime|Drama|Mystery,Quentin Tarantino,2015,"Samuel L. Jackson, Kurt Russell",7.8
+The Big Short,Biography|Comedy|Drama,Adam McKay,2015,"Christian Bale, Steve Carell",7.8
+Her,Drama|Romance|Sci-Fi,Spike Jonze,2013,"Joaquin Phoenix, Scarlett Johansson",8.0
+12 Years a Slave,Biography|Drama|History,Steve McQueen,2013,"Chiwetel Ejiofor, Michael Kenneth Williams",8.1
+Dunkirk,Action|Drama|History,Christopher Nolan,2017,"Fionn Whitehead, Barry Keoghan",7.8
+Arrival,Drama|Mystery|Sci-Fi,Denis Villeneuve,2016,"Amy Adams, Jeremy Renner",7.9
+The Shape of Water,Drama|Fantasy|Romance,Guillermo del Toro,2017,"Sally Hawkins, Octavia Spencer",7.3
+Parasite,Comedy|Drama|Thriller,Bong Joon Ho,2019,"Kang-ho Song, Sun-kyun Lee",8.6
+Jojo Rabbit,Comedy|Drama|War,Taika Waititi,2019,"Roman Griffin Davis, Thomasin McKenzie",7.9
+Once Upon a Time in Hollywood,Comedy|Drama,Quentin Tarantino,2019,"Leonardo DiCaprio, Brad Pitt",7.6
+The Irishman,Biography|Crime|Drama,Martin Scorsese,2019,"Robert De Niro, Al Pacino",7.8
+Knives Out,Comedy|Crime|Drama,Rian Johnson,2019,"Daniel Craig, Chris Evans",7.9
+Ford v Ferrari,Action|Biography|Drama,James Mangold,2019,"Matt Damon, Christian Bale",8.1
+The Batman,Action|Crime|Drama,Matt Reeves,2022,"Robert Pattinson, Zoë Kravitz",7.9
+Spider-Man: No Way Home,Action|Adventure|Fantasy,Jon Watts,2021,"Tom Holland, Zendaya",8.3
+Shang-Chi and the Legend of the Ten Rings,Action|Adventure|Fantasy,Destin Daniel Cretton,2021,"Simu Liu, Awkwafina",7.4
+Doctor Strange in the Multiverse of Madness,Action|Adventure|Fantasy,Sam Raimi,2022,"Benedict Cumberbatch, Elizabeth Olsen",6.9
+The Suicide Squad,Action|Adventure|Comedy,James Gunn,2021,"Margot Robbie, Idris Elba",7.2
+Venom: Let There Be Carnage,Action|Adventure|Sci-Fi,Andy Serkis,2021,"Tom Hardy, Woody Harrelson",6.0
+No Time to Die,Action|Adventure|Thriller,Cary Joji Fukunaga,2021,"Daniel Craig, Rami Malek",7.3
+Dune,Action|Adventure|Drama,Denis Villeneuve,2021,"Timothée Chalamet, Rebecca Ferguson",8.0
+Free Guy,Action|Adventure|Comedy,Shawn Levy,2021,"Ryan Reynolds, Jodie Comer",7.1
+A Quiet Place Part II,Drama|Horror|Sci-Fi,John Krasinski,2020,"Emily Blunt, Cillian Murphy",7.2
+Tenet,Action|Sci-Fi|Thriller,Christopher Nolan,2020,"John David Washington, Robert Pattinson",7.3
+Joker,Crime|Drama|Thriller,Todd Phillips,2019,"Joaquin Phoenix, Robert De Niro",8.4
+The Lighthouse,Drama|Fantasy|Horror,Robert Eggers,2019,"Robert Pattinson, Willem Dafoe",7.5
+Uncut Gems,Crime|Drama|Thriller,Benny Safdie,2019,"Adam Sandler, Julia Fox",7.4
+Marriage Story,Drama|Romance,Noah Baumbach,2019,"Adam Driver, Scarlett Johansson",7.9
+Little Women,Drama|Romance,Greta Gerwig,2019,"Saoirse Ronan, Emma Watson",7.8
+
